@@ -38,13 +38,3 @@ For execution: Open directory Relational_DBMS(branch:master) and on terminal
 2. Type **make**, it will compile the project.
 	
 3. Type **./Relational_DBMS -u user -p** for running project. Password is `pass`
-
-## IN DEVELOPMENT:
-For displaying the table contents, you have to select option 5 from menu and the queries supported by it are, do care about syntax, since complete parser is not implemented.
-
-select * from table_name;
-
-select id,name from table_name;
-
-select id,name from table_name where id = 1;
- 
